@@ -1,4 +1,4 @@
-## 👋 Helo! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github profile.
 ### My name is Ana Beatriz and my nickname is "Bia"!
 
 ### 👽 &nbsp;About me
