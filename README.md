@@ -3,7 +3,7 @@
 
 ### 👽 &nbsp;About me
 
-- 📍Nova Friburgo, RJ.
+- 📍Guapimirim, RJ.
 - 💻Student of Systems Analysis and Development.
 - 🤿Intern in [Alura's](https://www.alura.com.br/) Scuba-Team Front-end squad.
 - 🎨Passionate about the universe of creation and technology.
