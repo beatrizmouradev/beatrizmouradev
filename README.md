@@ -11,15 +11,12 @@
 
 
 ### 👩🏽‍💻 &nbsp; Working with
-<div>
+
  <a href="https://www.w3schools.com/html/default.asp" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
  <a href="https://www.w3schools.com/css/default.asp" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>&nbsp;
 <a href="https://sass-lang.com/" title="Sass"><img height="32" src="https://github.com/tomchen/stack-icons/blob/master/logos/sass.svg" alt="Sass"/></a>&nbsp;
 <a href="https://www.figma.com/" title="Figma"><img height="32" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma"/></a>
-
-  ![Snake animation](https://github.com/beatrizmouradev/beatrizmouradev/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ### 🔍&nbsp; Find me
 
