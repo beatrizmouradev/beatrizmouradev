@@ -5,9 +5,9 @@
 
 - 📍Guapimirim, RJ.
 - 💻Student of Systems Analysis and Development.
-- 🤿Intern in [Alura's](https://www.alura.com.br/) Scuba-Team Front-end squad.
+- 🤿 Instructor and Software Developer at [Alura](https://www.alura.com.br/).
 - 🎨Passionate about the universe of creation and technology.
-- 🐾Fun fact: I'm mother of a little cat named Code!
+- 🐾Fun fact: I'm the mother of a puppy named Vessi and a kitten named Code!
 
 
 ### 👩🏽‍💻 &nbsp; Working with
